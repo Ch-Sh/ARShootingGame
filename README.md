@@ -8,7 +8,7 @@ the game could be played in the augmented environment.
 ## Get started   
 
 1. Download the whole project and open it directly with Unity Editor.
-2. Create a Vuforia License and put it into VuforiaCOnfiguration file.
+2. Create a Vuforia License and put it into VuforiaConfiguration file.
 3. Print the Image Markes out.
 4. Depoly the game to iPhone or iPad.
 
