@@ -20,9 +20,7 @@ Add additional notes about how to deploy this project can be found in the video.
 [Ch-Sh](https://github.com/Ch-Sh)
 
 See also contributors who participated in this project.
-
 [Kevin Zhang](https://github.com/kevin0932)
-
 [Lokidda](https://github.com/Lokidda)
 
 
@@ -32,6 +30,6 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-[Survival Shooting Game] (https://www.assetstore.unity3d.com/en/#!/content/40756) 
-[A Star Path Planning] (https://arongranberg.com/astar/)
+[Survival Shooting Game](https://www.assetstore.unity3d.com/en/#!/content/40756) 
+[A Star Path Planning](https://arongranberg.com/astar/)
 
