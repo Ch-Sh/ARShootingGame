@@ -44,10 +44,8 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - Vuforia
     - ARShooter
     dataSetsToActivate:
-    - Vuforia
     - ARShooter
   videoBackground:
     clippingMode: 0

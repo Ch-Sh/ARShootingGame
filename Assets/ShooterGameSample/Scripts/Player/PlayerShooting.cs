@@ -21,7 +21,7 @@ namespace CompleteProject
         public Light gunLight;                                 // Reference to the light component.
 		public Light faceLight;								// Duh
         float effectsDisplayTime = 0.2f;  // The proportion of the timeBetweenBullets that the effects will display for.
-		LineRenderer gunRenderer;
+
 		private Vector3 rightJoystickInput;
 
 
@@ -36,7 +36,6 @@ namespace CompleteProject
             gunAudio = GetComponent<AudioSource> ();
             gunLight = GetComponent<Light> ();
 //			faceLight = GetComponentInChildren<Light> ();
-			gunRenderer = GetComponent<LineRenderer>();
 
 			if (rightJoystick == null)
 			{
@@ -89,10 +88,6 @@ namespace CompleteProject
             gunLight.enabled = false;
         }
 
-		public void fireUpdate(){
-			damagePerShot = 40;
-			gunRenderer.material.color = Color.red;
-		}
 
         void Shoot ()
         {
