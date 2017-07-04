@@ -4,16 +4,18 @@ the game could be played in the augmented environment.
 
 **Required Unity Editor Version 5.5.2f1 or higher**
 
-## Get started   
+## Deployment   
 
 1. Download the whole project and open it directly with Unity Editor.
 2. Create a Vuforia License and put it into VuforiaConfiguration file.
 3. Print the Image Markes out.
 4. Depoly the game to iPhone or iPad.
 
-## Deployment
+## Get Started 
 
-Add additional notes about how to deploy this project can be found in the video. 
+1. Recognize base image 
+2. Start terrain scanning
+3. Play the game 
 
 ## Authors
 
