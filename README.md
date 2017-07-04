@@ -1,6 +1,6 @@
 # Augmented Reality Survival Shooting Game 
-The work is the extension of the classical Survival Shooting Game of Unity Tutorial. With the help of the image markes,
-the game could be played in the augmented environment.
+The work is the extension of the classical Survival Shooting Game. With the help of the image markes,
+the game could be played in self-defined augmented environment.
 
 **Required Unity Editor Version 5.5.2f1 or higher**
 
