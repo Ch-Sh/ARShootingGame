@@ -31,12 +31,6 @@ the game could be played in self-defined augmented environment.
 
 [Ch-Sh](https://github.com/Ch-Sh)
 
-See also contributors who participated in this project.
-
-[Kevin Zhang](https://github.com/kevin0932)
-
-[Lokidda](https://github.com/Lokidda)
-
 
 ## License
 
